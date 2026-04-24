@@ -23,3 +23,4 @@ df.write \
   .save()
 
 spark.stop()
+print("Updated version")
