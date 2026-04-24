@@ -1,0 +1,5 @@
+id,INTEGER
+name,STRING
+age,INTEGER
+department,STRING
+salary,INTEGER
