@@ -1,4 +1,5 @@
 name = "Pratyusha"
 age = 25
-print(name, age)
+city= "Hyderabad"
+print(name, age,city)
 print("Team collaboration!")
